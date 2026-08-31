@@ -30,8 +30,6 @@ body {
     text-align: center;
 }
 
-/* Live deployment badge */
-
 .badge {
     display: inline-block;
 
@@ -49,8 +47,6 @@ body {
 
     font-weight: bold;
 }
-
-/* Main heading */
 
 h1 {
     font-size: 56px;
@@ -72,8 +68,6 @@ h1 {
     color: transparent;
 }
 
-/* Description */
-
 .subtitle {
     font-size: 20px;
 
@@ -85,8 +79,6 @@ h1 {
 
     line-height: 1.6;
 }
-
-/* Deployment status */
 
 .status {
     background: rgba(255, 255, 255, 0.08);
@@ -116,13 +108,10 @@ h1 {
     font-weight: bold;
 }
 
-/* Animated status dot */
-
 .dot {
     display: inline-block;
 
     width: 12px;
-
     height: 12px;
 
     background: #4ade80;
@@ -149,8 +138,6 @@ h1 {
         transform: scale(1.3);
     }
 }
-
-/* Feature cards */
 
 .cards {
     display: grid;
@@ -198,8 +185,6 @@ h1 {
     line-height: 1.5;
 }
 
-/* Footer */
-
 .footer {
     margin-top: 35px;
 
@@ -207,8 +192,6 @@ h1 {
 
     font-size: 14px;
 }
-
-/* Mobile responsive design */
 
 @media (max-width: 700px) {
 
